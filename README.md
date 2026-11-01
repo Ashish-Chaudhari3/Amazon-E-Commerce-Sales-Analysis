@@ -47,7 +47,7 @@ This project involved building a comprehensive SQL database for an e-commerce pl
 
 
 ## Entity Relationship Diagram (ERD)
-![ER_Diagram](https://github.com/user-attachments/assets/2245dce1-8af0-4bc6-8c47-3fb941830fbd)
+![ER_Diagram](https://github.com/Ashish-Chaudhari3/Amazon-E-Commerce-Sales-Analysis/blob/main/ER_Diagram.png)
 
 
 
